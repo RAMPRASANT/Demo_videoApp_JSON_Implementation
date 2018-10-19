@@ -1,0 +1,118 @@
+{
+  "UserDetail": [
+    {
+      "id": 1,
+      "userName": "ram",
+      "email": "ram.murugappan@object-frontier.com",
+      "password": "qwerty@123",
+      "videolist": [
+        {
+          "name": "React-Fundamentals",
+          "url": "https://www.youtube.com/watch?v=ul0tRkeu5CE"
+        },
+        {
+          "name": "React-Fundamentals",
+          "url": "https://www.youtube.com/watch?v=llitthH5Emo"
+        },
+        {
+          "name": "React-Fundamentals",
+          "url": "https://www.youtube.com/watch?v=vdrmJ0lc-sw"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userName": "santha",
+      "email": "santhakumar.r@object-frontier.com",
+      "password": "qwerty@12345",
+      "videolist": [
+        {
+          "name": "React-state",
+          "url": "https://www.youtube.com/watch?v=qh3dYM6Keuw"
+        },
+        {
+          "name": "React-state",
+          "url": "https://www.youtube.com/watch?v=5tT8FXeE1Y8"
+        },
+        {
+          "name": "React-state",
+          "url": "https://www.youtube.com/watch?v=e5n9j9n83OM"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "userName": "ajay",
+      "email": "ajaykumar.b@object-frontier.com",
+      "password": "qwerty@12345*",
+      "videolist": [
+        {
+          "name": "Redux-fundamentals",
+          "url": "https://www.youtube.com/watch?v=0ix_QLPkYhI"
+        },
+        {
+          "name": "Redux-fundamentals",
+          "url": "https://www.youtube.com/watch?v=7Erbf5NXQQw"
+        },
+        {
+          "name": "Redux-fundamentals",
+          "url": "https://www.youtube.com/watch?v=6Zf29n9PL3k"
+        }
+      ]
+    },
+    {
+      "name": "asdasdas",
+      "email": "asdasdas",
+      "password": "asdasdas",
+      "id": 4
+    },
+    {
+      "name": "123123123",
+      "email": "123123123",
+      "password": "123123123",
+      "id": 5
+    },
+    {
+      "name": "11111111111",
+      "email": "11111111111",
+      "password": "11111111111",
+      "id": 6
+    },
+    {
+      "name": "11111111",
+      "email": "11111111",
+      "password": "11111111",
+      "id": 7
+    },
+    {
+      "name": "aaaaa",
+      "email": "aaaaa",
+      "password": "aaaaa",
+      "id": 8
+    },
+    {
+      "name": "adssadasdasda",
+      "email": "adssadasdasda",
+      "password": "adssadasdasda",
+      "id": 9
+    },
+    {
+      "name": "aa",
+      "email": "aa",
+      "password": "aa",
+      "id": 10
+    },
+    {
+      "name": "SignUp",
+      "email": "SignUp",
+      "password": "SignUp",
+      "id": 11
+    },
+    {
+      "name": "rrr",
+      "email": "ram@1.com",
+      "password": "asasas",
+      "id": 12
+    }
+  ]
+}
